@@ -1,0 +1,12 @@
+# TODO
+- Computer vision
+
+Development env for computer vision tasks
+
+Tasks
+- object detection
+- image segmentation
+- image classification
+- pose estimation 
+- object bounding boxes 
+- object tracking

@@ -18,5 +18,6 @@ For Topics Like:
 - kaggle env
 - gpu acceleration
 - pytorch
+- generative ai
 
 > Change the name to `Lab` when done with setup
