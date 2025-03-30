@@ -1,7 +1,22 @@
-# Experimentation ground 
+# Experimentation ground
 
-This is my exp ground where I usually check if the tech works.
-I mostly use it for AI work such as testing pytorch, GPU and CPU detection, etc.
+Cleaning repo
 
-> suggest me anything about this ground on my email, or raise a ISSUE or pull
-request.
+This Experimentation Ground is designed for AI/ML Tasks
+
+For Topics Like:
+- computer vision
+- NLP
+- Data Analytics
+- Reinforcement Learning
+- Deep Learning
+- Model Development
+- pipeline development
+- huggingface models
+- huggingface datasets
+- notebook env
+- kaggle env
+- gpu acceleration
+- pytorch
+
+> Change the name to `Lab` when done with setup
