@@ -28,3 +28,9 @@ class LinearThreeLayer(nn.Module):
         x = self.relu(x)
         x = self.layer1(x)
         return x
+
+import torch.fx as fx
+
+model = LinearThreeLayer()
+graph = fx.symbolic_trace(model)
+graph.graph.print_tabular()
