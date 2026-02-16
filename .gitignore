@@ -1,1 +1,3 @@
 temp/
+sql_mlir_env/*
+*.ipynb_checkpoints/
