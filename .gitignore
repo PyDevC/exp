@@ -2,3 +2,6 @@ temp/
 sql_mlir_env/*
 *.ipynb_checkpoints/
 experiments/dynamo/torchcompile/torch_compile_debug/*
+experiments/dynamo/torchcompile/tl_out/*
+data/*
+*/__pycache__
