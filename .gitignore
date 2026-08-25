@@ -5,3 +5,5 @@ experiments/dynamo/torchcompile/torch_compile_debug/*
 experiments/dynamo/torchcompile/tl_out/*
 data/*
 */__pycache__
+
+testingGBite/
